@@ -24,3 +24,8 @@ Exploratory data analysis of Astana housing market using Python, SQL, and statis
    * Выполнена сегментация рынка по эпохам застройки через `CASE WHEN`. Выявлен тренд на оптимизацию площадей в современных новостройках (66.5 кв.м) по сравнению с домами 2000-2015 гг. (85.5 кв.м).
 
 ![Результат SQL запроса](images/sql_table.png)
+
+
+
+**Данные:** ~3200 объявлений о продаже квартир в Астане  
+Источник: [Kaggle — Astana Real Estate Dataset](https://www.kaggle.com/datasets/turarr/astana-real-estate-dataset)
