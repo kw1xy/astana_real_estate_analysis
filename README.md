@@ -1,3 +1,6 @@
+# Astana Real Estate Market — EDA Project
+Exploratory data analysis of Astana housing market using Python, SQL, and statistical testing.
+
 # 🏢 Анализ рынка недвижимости Астаны (EDA + SQL + Статистика)
 
 Проект посвящен разведочному анализу данных (EDA) рынка жилья, очистке данных от аномалий, проверке статистических гипотез и формированию аналитических витрин.
