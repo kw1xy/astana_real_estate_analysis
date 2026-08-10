@@ -1,6 +1,6 @@
 # 🏢 Astana Real Estate Market Analysis: Pricing Dynamics & Segmentation
 
-This repository contains an exploratory data analysis (EDA) of the Astana real estate market. The goal of this project was to apply a full analytical stack—Python (Pandas), Inferential Statistics, and SQL—to raw regional data to investigate the true impact of district geography and construction year on property valuations.
+This repository contains an exploratory data analysis (EDA) of the Astana real estate market. The goal of this project was to apply a full analytical stack: Python (Pandas), Inferential Statistics, and SQL—to raw regional data to investigate the true impact of district geography and construction year on property valuations.
 
 **🛠️ Tech Stack & Tools:**
 * **Python (Pandas, NumPy):** Data cleaning and outlier detection.
